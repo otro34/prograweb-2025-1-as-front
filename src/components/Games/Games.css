@@ -1,0 +1,16 @@
+.mainGameCard {
+    padding-left: 100px;
+}
+
+.sectionGameCard {
+    display: flex;
+}
+
+.sectionSearch {
+    margin: 20px;
+}
+
+.sectionSearch input {
+    width: 600px;
+    margin-right: 20px;
+}

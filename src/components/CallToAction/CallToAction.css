@@ -1,0 +1,57 @@
+#seccionBanner {
+    background-image: url('../../assets/banner.jpg');
+    padding-bottom: 150px;
+    background-size: 100%;
+}
+
+#seccionBanner h2 {
+    color: white;
+    font-size: 50px;
+    padding-top: 150px;
+    padding-left: 100px;
+    margin-top:0;
+}
+
+#seccionBanner p {
+    color: white;
+    font-size: 20px;
+    padding-left: 100px;
+    width: 40%;
+}
+
+#seccionBanner #btnUnete {
+    background-color: #9BF00B;
+    color: black;
+    padding: 10px 20px;
+    margin-top: 20px;
+    margin-left: 100px;
+    text-decoration: none;
+    font-weight: 900;
+    text-transform: uppercase;
+    border: 0px;
+}
+
+#seccionBanner #btnMasInformacion {
+    background-color: black;
+    color: #9BF00B;
+    padding: 10px 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-weight: 900;
+    text-transform: uppercase;
+    border: 0px;
+
+}
+
+#seccionSigueXbox {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+#seccionSigueXbox div {
+    margin: 0px;
+    padding: 0px;
+    padding-top:15px;
+    padding-left:100px;
+    text-align: center;
+}

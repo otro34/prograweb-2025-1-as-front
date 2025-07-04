@@ -1,0 +1,19 @@
+header {
+    display: flex;
+}
+
+header img {
+    height: 50px;
+    padding-top: 10px;
+    padding-left: 100px;
+}
+
+header ol {
+    list-style-type: none;
+    display: flex;
+}
+
+header ol li {
+    padding-left: 25px;
+    padding-top: 10px;
+}

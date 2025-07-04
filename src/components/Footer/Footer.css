@@ -1,0 +1,38 @@
+footer {
+    background-color: #F2F2F2;
+}
+
+footer section {
+    display: flex;
+}
+
+footer section ul {
+    list-style-type: none;
+    padding-left: 100px;
+}
+
+footer section ul li {
+    padding-bottom: 20px;
+}
+
+footer section ul li:first-child {
+    font-weight: 900;
+}
+
+footer #footerBottom {
+    display:flex;
+    justify-content: flex-end;
+
+}
+
+footer #footerBottom ol {
+    list-style-type: none;
+    display:flex;
+    flex-wrap: nowrap;
+    padding-right: 20px;
+}
+
+footer #footerBottom ol li {
+    padding-left: 20px;
+
+}

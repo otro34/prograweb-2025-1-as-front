@@ -1,0 +1,72 @@
+.sectionGame {
+    display: flex;
+    margin-left: 100px;
+}
+
+.sectionGame div {
+    margin-left: 20px;
+}
+
+.sectionGame div ul {
+    list-style-type: none;
+    display: flex;
+    font-size: 10px;
+    padding: 0;
+}
+
+.sectionGame div ul li {
+    margin-right: 10px;
+}
+
+.sectionGame div ul li img {
+    height: 16px;
+    width: 32px;
+}
+
+.sectionGameButtons {
+    margin-left: 100px;
+    margin-top: 30px;
+    display: flex;
+}
+
+.sectionGameButtons .buttonInstalar {
+    background-color: #008746;
+    height: 60px;
+    width: 160px;
+    color: white;
+    margin-right: 20px;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.sectionGameButtons .buttonInstalar h7 {
+    font-size: 12px;
+}
+
+.sectionGameButtons .buttonComprar {
+    background-color: #6b7585;
+    height: 60px;
+    width: 160px;
+    color: white;
+    margin-right: 20px;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+.sectionGameDescripcion {
+    display: flex;
+    margin-left: 100px;
+}
+
+.sectionGameDescripcion div {
+    max-width: 600px;
+    margin-right: 20px;
+}
+
+.sectionGameDescripcionFuncionalidades {
+    display: flex;
+    flex-wrap: wrap;
+}
